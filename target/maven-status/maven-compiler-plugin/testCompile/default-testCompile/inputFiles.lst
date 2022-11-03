@@ -1,0 +1,12 @@
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/runner/RunTest.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/steps/CommonSteps.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/steps/LoginSteps.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/pages/CommonPage.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/pages/LoginPage.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/maps/LoginElementMap.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/util/PropertyReader.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/steps/HomeSteps.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/maps/HomeElementMap.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/util/Utils.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/util/TestRule.java
+/home/rtulio/Documentos/projetos/automacao/guepardo-automation-test/src/test/java/pages/HomePage.java
